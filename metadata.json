@@ -1,0 +1,6 @@
+{
+  "name": "SOLOEXPERT - Tự đóng gói và bán chương trình đầu tiên",
+  "description": "Khóa học thực chiến cho Coach & Consultant: Tự đóng gói và bán chương trình đầu tiên theo tốc độ của bạn. 6 module, 42 bài thực hành, 42 template dùng ngay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
